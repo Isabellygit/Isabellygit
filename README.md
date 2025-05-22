@@ -1,15 +1,29 @@
-## Oiii! Eu sou a Isabelly
 
- Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus estudos, projetos e experimentos no mundo da tecnologia.
+<h1>Oiii! Eu sou a Isabelly 💖</h1>
 
-##  Sobre mim
+<p style="font-size:18px">
+Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus estudos, projetos e experimentos no mundo da tecnologia.
+</p>
 
-- 💼 Trabalho com: Auxliar Admistrativo
-- 📚 Estudo: Análise e Desenvolvimento de Sistemas
-- 🌈 Pronomes: ela/dela
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="80">
+</div>
 
-<div align="">
-  <h2>🛠 Estatísticas do GitHub</h2>
+
+<p style="font-size:16px">
+💼 Trabalho com: Auxiliar Administrativo <br>
+📚 Estudo: Análise e Desenvolvimento de Sistemas <br>
+🌈 Pronomes: ela/dela
+</p>
+
+<h2>🛠 Estatísticas do GitHub</h2>
+</div>
+
 
   <!-- Estatísticas do GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=Isabellygit&show_icons=true&count_private=true&hide=prs&theme=transparent" alt="GitHub Stats">
@@ -36,3 +50,5 @@
   <a href="mailto:dev.isabelly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabelly-moreira-9019b5366" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
