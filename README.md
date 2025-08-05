@@ -15,8 +15,7 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus estudos, projetos
 </div>
 
 
-<p style="font-size:16px">
-💼 Trabalho com: Auxiliar Administrativo <br>
+<p style="font-size:16px"> 
 📚 Estudo: Análise e Desenvolvimento de Sistemas <br>
 🌈 Pronomes: ela/dela
 </p>
