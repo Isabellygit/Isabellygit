@@ -6,16 +6,15 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus estudos, projetos
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90">
+ 
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NDMwOTcsIm5iZiI6MTc1NDQ0Mjc5NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA2VDAxMTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmM0NzU2ZmI5YWFiOGY5MTk0NjZkMDMxNDMzZGY3ZmQ2MTZkNDk1Njk2NGNmZTI3ODBjOTRmYzU3YmVmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2UozsJz3HQBaZ6pZ_Md5dj9HzaKsfhZwBJukIKIiY80" width="90">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NDMwOTcsIm5iZiI6MTc1NDQ0Mjc5NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA2VDAxMTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmM0NzU2ZmI5YWFiOGY5MTk0NjZkMDMxNDMzZGY3ZmQ2MTZkNDk1Njk2NGNmZTI3ODBjOTRmYzU3YmVmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2UozsJz3HQBaZ6pZ_Md5dj9HzaKsfhZwBJukIKIiY80" width="90">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NDMwOTcsIm5iZiI6MTc1NDQ0Mjc5NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA2VDAxMTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmM0NzU2ZmI5YWFiOGY5MTk0NjZkMDMxNDMzZGY3ZmQ2MTZkNDk1Njk2NGNmZTI3ODBjOTRmYzU3YmVmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2UozsJz3HQBaZ6pZ_Md5dj9HzaKsfhZwBJukIKIiY80" width="90">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NDMwOTcsIm5iZiI6MTc1NDQ0Mjc5NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA2VDAxMTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmM0NzU2ZmI5YWFiOGY5MTk0NjZkMDMxNDMzZGY3ZmQ2MTZkNDk1Njk2NGNmZTI3ODBjOTRmYzU3YmVmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2UozsJz3HQBaZ6pZ_Md5dj9HzaKsfhZwBJukIKIiY80" width="90">
+  <img src="https://private-user-images.githubusercontent.com/74038190/325895973-e4f28204-ea88-4364-a321-8330c3fbde6a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTQ0NDMwOTcsIm5iZiI6MTc1NDQ0Mjc5NywicGF0aCI6Ii83NDAzODE5MC8zMjU4OTU5NzMtZTRmMjgyMDQtZWE4OC00MzY0LWEzMjEtODMzMGMzZmJkZTZhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODA2VDAxMTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3YmM0NzU2ZmI5YWFiOGY5MTk0NjZkMDMxNDMzZGY3ZmQ2MTZkNDk1Njk2NGNmZTI3ODBjOTRmYzU3YmVmOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2UozsJz3HQBaZ6pZ_Md5dj9HzaKsfhZwBJukIKIiY80" width="90">
 </div>
 
-
-<p style="font-size:16px"> 
+<p style="font-size:10px"> 
 📚 Estudo: Análise e Desenvolvimento de Sistemas <br>
 🌈 Pronomes: ela/dela
 </p>
@@ -39,8 +38,9 @@ Seja bem-vindo(a) ao meu GitHub! Aqui você vai encontrar meus estudos, projetos
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;"></a>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;">
-<a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;"></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" alt="Imagem extra" style="max-width: 100%;">
+<a href="https://www.figma.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;"></a>
+
   ## Contato
  
 <div> 
