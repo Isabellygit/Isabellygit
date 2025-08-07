@@ -7,7 +7,7 @@
       style="display:block; margin:0 auto 16px; border-radius:50%;"
     />
     <h1 style="margin:0; font-size:2.5rem; font-weight:700; color:#E91E63; text-align:center;">
-     𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙸𝚜𝚊𝚋𝚎𝚕𝚕𝚢 𝙼𝚘𝚛𝚎𝚒𝚛𝚊 !
+     𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸'𝚖 𝙸𝚜𝚊𝚋𝚎𝚕𝚕𝚢  𝙼𝚘𝚛𝚎𝚒𝚛𝚊 !
     </h1>
     <p style="margin:8px 0 16px; color:#CCC; font-size:1.1rem; text-align:center;">
       Estudante de ADS • Apaixonada por tecnologia • Explorando o mundo da programação
