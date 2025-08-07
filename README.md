@@ -42,6 +42,21 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
 <br>
 
 <h2>🛠 Estatísticas do GitHub</h2>
+<div style="display: flex; gap: 20px; flex-wrap: wrap; widith">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
+  
+       
+</div>
 
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
@@ -66,8 +81,7 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
   
        
 </div>
