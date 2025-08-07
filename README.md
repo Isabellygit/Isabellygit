@@ -43,10 +43,7 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
 
 <h2>🛠 Estatísticas do GitHub</h2>
 
-</div>
 
-
-  <!-- Estatísticas do GitHub -->
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 <img src="https://github-readme-stats.vercel.app/api?username=Isabellygit&show_icons=true&count_private=true&hide=prs&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" alt="GitHub Stats">
 
@@ -81,15 +78,18 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
 ## Skills
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" style="max-width: 100%;">
-  </a>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" style="max-width: 100%;">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" style="max-width: 100%;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="36" alt="Python" style="max-width: 100%;">
-  <a href="https://www.figma.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" style="max-width: 100%;">
-  </a>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PY">
+  <img src="https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=&logoColor=white" alt ="sql">
+  <br>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt ="VSCO">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  
+
 </div>
 
 <br>
