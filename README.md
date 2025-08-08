@@ -35,49 +35,17 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
 <br>
 
 <h2>🛠 Estatísticas do GitHub</h2>
-<div style="display: flex; gap: 20px; flex-wrap: wrap; widith">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
-  
-       
-</div>
-
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 <img src="https://github-readme-stats.vercel.app/api?username=Isabellygit&show_icons=true&count_private=true&hide=prs&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" alt="GitHub Stats">
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellygit&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" alt="Top Linguagens">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhsMmNmM3g2c3Z5bmRvdjhjbHF1cnZnbmd0amZ4dnl1MGZvbGRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I4xtW27rlkNnqmZ9Mw/giphy.gif" width="92" style="vertical-align: middle;" ">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhsMmNmM3g2c3Z5bmRvdjhjbHF1cnZnbmd0amZ4dnl1MGZvbGRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I4xtW27rlkNnqmZ9Mw/giphy.gif" width="158" style="vertical-align: middle;" ">
 </div>
 
 <br>
 <br>
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; widith">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70"> 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9tbzRmNWY5MXNwcnA4MHdpNzVsOTFwNmhqbWI0cmM5ZDN0YzU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GafDnFqGg1Q2E9B0xB/giphy.gif" width="70">
-  
-       
-</div>
 
 <br>
 <br>
