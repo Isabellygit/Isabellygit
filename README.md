@@ -41,7 +41,7 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabellygit&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4" alt="Top Linguagens">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhsMmNmM3g2c3Z5bmRvdjhjbHF1cnZnbmd0amZ4dnl1MGZvbGRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I4xtW27rlkNnqmZ9Mw/giphy.gif" width="158" style="vertical-align: middle;" ">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhsMmNmM3g2c3Z5bmRvdjhjbHF1cnZnbmd0amZ4dnl1MGZvbGRpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I4xtW27rlkNnqmZ9Mw/giphy.gif" width="148" style="vertical-align: middle;" ">
 </div>
 
 <br>
