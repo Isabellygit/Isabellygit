@@ -27,7 +27,7 @@ Atualmente, estou focada em estudar Python, SQL, lógica de programação e dese
 
  <br>
    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY4NXRqa3JyZnNyY3Y3d3hvMGkzY25iY2gycTJycjRic3p0NzA4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YMRrmrR38axjVoHDWO/giphy.gif" width="32" style="vertical-align: middle;" />
-  <strong> São Paulo – SP  -- Disponível para oportunidades de estágio na área de tecnologia!</strong>
+  <strong> -- Disponível para oportunidades de estágio na área de tecnologia!--</strong>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnY4NXRqa3JyZnNyY3Y3d3hvMGkzY25iY2gycTJycjRic3p0NzA4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YMRrmrR38axjVoHDWO/giphy.gif" width="32" style="vertical-align: middle;" />
 </p>
 
